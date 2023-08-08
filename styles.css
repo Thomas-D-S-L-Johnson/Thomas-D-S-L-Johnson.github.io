@@ -56,12 +56,4 @@ p {
     max-width: 400px;
 }
 
-.blog-post {
-    width: 100%;
-    max-width: 800px; /* Set a maximum width for better readability */
-    background-color: #fff;
-    padding: 20px;
-    margin: 10px auto; /* Center-align and add margin between posts */
-    border: 1px solid #ccc;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
+
