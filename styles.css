@@ -10,10 +10,14 @@ header {
     padding: 10px 0;
 }
 
+nav {
+    display: flex;
+    justify-content: center;
+}
+
 nav ul {
     list-style: none;
     display: flex;
-    justify-content: center;
 }
 
 nav ul li {
@@ -42,7 +46,7 @@ img {
     height: 300px; /* Set a fixed height for square photo */
     object-fit: cover; /* Maintain aspect ratio and cover container */
     margin-right: 20px;
-    border-radius: 50%;
+    border-radius: 5%;
 }
 
 p {
