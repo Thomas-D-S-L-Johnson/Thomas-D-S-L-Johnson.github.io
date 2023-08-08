@@ -5,7 +5,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: beige; /* Set the background color to beige */
+    background-color: palegreen; /* Set the background color to pale green */
 }
 
 /* Styling for the header section */
@@ -25,7 +25,8 @@ nav ul {
 }
 
 nav li {
-    margin-right: 20px;
+    margin-right: 30px; /* Increase the margin for more spacing */
+    font-size: 20px; /* Increase the font size */
 }
 
 nav a {
