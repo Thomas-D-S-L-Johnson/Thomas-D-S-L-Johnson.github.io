@@ -1,6 +1,6 @@
 body {
     background-color: #F0EAD6; /* Color between orange and beige */
-    font-family: Arial, sans-serif;
+    font-family: Roboto, sans-serif;
     margin: 0;
     padding: 0;
 }
@@ -12,7 +12,8 @@ header {
 
 nav {
     display: flex;
-    justify-content: center;
+    justify-content: flex-start; /* Align tabs to the top left corner */
+    padding-left: 20px; /* Add some padding for better spacing */
 }
 
 nav ul {
