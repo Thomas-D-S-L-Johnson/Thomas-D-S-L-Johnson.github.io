@@ -10,4 +10,9 @@ body {
     align-items: center;
 }
 
+.header-photo {
+    max-width: 100px; /* Adjust the size as needed */
+    margin-right: 10px; /* Add a small gap between the photo and the header text */
+}
+
 /* Add more CSS styles as needed */
