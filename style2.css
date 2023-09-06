@@ -15,4 +15,7 @@ body {
     margin-right: 10px; /* Add a small gap between the photo and the header text */
 }
 
+.content-section {
+    margin-left: 20px; /* Add a left margin to the content section */
+}
 /* Add more CSS styles as needed */
